@@ -4,7 +4,7 @@
 .head-wrap{
 	height: 600px;
 	background-image: url(../img/bckgrd-head.png);
-	background-size: 100%;
+	background-size: cover;
 }
 .head-wrap-1{
 	background-color: rgba(0,0,0,0.6);
@@ -29,7 +29,7 @@
 .like-our-work{
 	height: 300px;
 	background-image: url(../img/like-our-work.png);
-	background-size: 100%;
+	background-size: cover;
 }
 .our-work-wrap{
 	background: rgba(0, 0, 0, 0.8);
